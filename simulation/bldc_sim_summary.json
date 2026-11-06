@@ -1,0 +1,9 @@
+{
+  "status": "PASSED",
+  "target_rpm": 2000.0,
+  "baseline_settling_ms": 181.0,
+  "tuned_settling_ms": 117.0,
+  "settling_reduction_pct": 35.4,
+  "overshoot_pct": 0.07,
+  "disturbance_drop_pct": 1.37
+}
